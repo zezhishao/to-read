@@ -15,8 +15,6 @@
 - [ ] [UniTS: A Universal Time Series Analysis Framework with Self-supervised ***Representation*** Learning](https://arxiv.org/abs/2303.13804), arXiv'23.
 - [ ] [A comprehensive evaluation of ***multi-task*** learning and multi-task ***pre-training*** on EHR time-series data](https://arxiv.org/abs/2007.10185), arXiv'20.
 
-
-
 ## Distribution Shift
 
 - [ ] [SpectraNet: multivariate ***forecasting and imputation*** under ***distribution shifts*** and ***missing data***](https://arxiv.org/pdf/2210.12515.pdf), arXiv'23.
@@ -44,3 +42,6 @@
 - [ ] [***Probabilistic*** ***Transformer*** for Time Series Analysis](https://openreview.net/pdf?id=HfpNVDg3ExA), NIPS'21
 - [ ] [RNN with Particle Flow for ***Probabilistic*** Spatio-temporal Forecasting](http://proceedings.mlr.press/v139/pal21b/pal21b.pdf), ICML'21.
 
+## Text Book
+
+- [ ] [Forecasting: Principles and Practice](https://otexts.com/fpp3/)

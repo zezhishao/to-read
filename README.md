@@ -35,6 +35,7 @@
 - [ ] Surveys:
   - [ ] [Generalizing to Unseen Domains: A Survey on ***Domain Generalization***](https://arxiv.org/pdf/2103.03097.pdf), TKDE'22
   - [ ] [Generalized ***Out-of-Distribution Detection***: A Survey](https://arxiv.org/pdf/2110.11334.pdf), arXiv'22
+  - [ ] [Domain Generalization: A Survey](https://arxiv.org/pdf/2103.02503.pdf), arXiv'21
 
 ## Probalistic Forecasting
 

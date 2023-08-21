@@ -2,6 +2,7 @@
 
 ## Pre-Training & Unsupervised Learning:
 
+- [ ] [One Fits All: Power General Time Series Analysis by **Pretrained** LM](https://arxiv.org/pdf/2302.11939.pdf), arXiv'22.
 - [ ] [Self-Supervised Contrastive ***Pre-Training*** for Time Series via ***Time-Frequency Consistency***](https://arxiv.org/pdf/2206.08496.pdf), NIPS'22.
 - [ ] [SimMTM: A Simple ***Pre-Training*** Framework for ***Masked*** Time-Series Modeling](https://arxiv.org/pdf/2302.00861.pdf), arXiv'23. 
 - [ ] [Unsupervised Time-Series ***Representation*** Learning with ***Iterative Bilinear Temporal-Spectral Fusion***](https://arxiv.org/pdf/2202.04770.pdf), ICML'22.
